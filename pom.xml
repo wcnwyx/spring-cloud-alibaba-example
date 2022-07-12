@@ -15,6 +15,7 @@
         <module>provider-server-api</module>
         <module>consumer-dubbo-6003</module>
         <module>consumer-feign-6002</module>
+        <module>gateway-5001</module>
     </modules>
 
     <properties>
